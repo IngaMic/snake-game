@@ -9,7 +9,7 @@ https://ingamic.github.io/snake-game/
 A classic game from the late 70s, played with the ⬅️⬇️⬆️➡️ arrow keys. <br/>
 Players maneuver a line, turning at 90 degree angles. It grows in length after getting the fruit (randomly positioned on a game board).
 <br/>
-
+<br/>
 Game originated in the 1976 arcade game Blockade.
  <br/>
  <br/>
