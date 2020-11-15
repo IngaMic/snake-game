@@ -13,10 +13,12 @@ Players maneuver a line, turning at 90 degree angles. It grows in length after g
 Game originated in the 1976 arcade game Blockade.
  <br/>
  <br/>
+ 
 ### Development
-JavaScript
-HTML
-CSS
+
+JavaScript <br/>
+HTML <br/>
+CSS <br/>
 
 <br/>
 <br/>
